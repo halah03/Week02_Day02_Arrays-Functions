@@ -36,5 +36,7 @@ Create a file named practice.js to save your solutions.
 
 ## Functions
 - make the above programs into their own functions.
-- bonus: Put the [variables and operators lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_variables_operators) into functions as well.
+- Bonus: Put the [variables and operators lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_variables_operators) into functions as well.
+- Bonus 2: Put the [conditions lab](https://github.com/Tuwaiq-SE-Jouf/week01_day05_JS_conditions) into functions.
+- Bonus 3: Put the [Loops Lab](https://github.com/Tuwaiq-SE-Jouf/Week02_Day01_Loops) into functions.
 
